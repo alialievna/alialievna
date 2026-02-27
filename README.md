@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Ali
 
-<!--
-**alialievna/alialievna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst** | SQL • Python • Power BI  
+Building data-driven solutions that turn insights into smarter business decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 📍 Based in **Astana, Kazakhstan**
+- 🎯 Focused on **data analysis, visualization, and analytics engineering**
+- 💡 Interested in **business intelligence & backend analytics**
+- 🚀 Always improving SQL & Python skills through real projects
+
+---
+
+## 🛠 Tech Stack
+**Data & Analytics**
+- SQL (PostgreSQL)
+- Python (Pandas, NumPy)
+- Power BI
+- Excel
+
+**Backend / Tools**
+- Git & GitHub
+- Basic Flask
+- Data modeling & reporting
+
+---
+
+## 📫 Contact
+- 📧 Email: **khauazkhan.ali@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/ali-khauazkhan
+
+---
+
+⭐ *Always open to collaboration on data & analytics projects*
